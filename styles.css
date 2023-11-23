@@ -1,0 +1,56 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-style: italic;
+  background-color: grey;
+  text-align: center;
+  font-size: 29px;
+  border-top: 3px solid;
+  border-bottom: 3px solid;
+  margin-bottom: 6px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 22px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding-bottom: 15px;
+  margin-top: 12px;
+}
+ul,
+li {
+  list-style: square;
+  padding-left: 20px;
+}
+img {
+  border: 6px solid green;
+  margin-bottom: 20px;
+}
+#Golden-words {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: grey;
+}
+ul {
+  border: 3px solid;
+  text-align: justify;
+  border-radius: 10px;
+}
+.container {
+  margin: auto;
+  width: 800px;
+}
+h3 {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+}
+p {
+  padding-bottom: 5px;
+  font-size: 19px;
+}
+a:link {
+  font-size: 22px;
+  font-style: italic;
+}
